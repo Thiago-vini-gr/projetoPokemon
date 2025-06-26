@@ -25,6 +25,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
     transition: all 0.3s ease;
+    background-color: rgb(119, 119, 37);
 }
 
 
